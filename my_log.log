@@ -1,0 +1,16 @@
+06-02-2023 22:43:32 - main - INFO - <module> - пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+06-02-2023 22:44:07 - main - INFO - <module> - пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+06-02-2023 22:45:59 - main - INFO - <module> - пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+06-02-2023 22:46:10 - main - INFO - <module> - пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+06-02-2023 22:48:50 - main - INFO - <module> - пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+06-02-2023 22:53:15 - main - INFO - <module> - пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+12-02-2023 17:04:43 - main - INFO - <module> - Начало программы
+12-02-2023 17:04:58 - user_interface - INFO - menu_calc - Запускаем калькулятор для rational
+12-02-2023 17:05:10 - user_interface - INFO - menu_calc - Произведение: 2 * 5 = 10
+12-02-2023 17:05:32 - user_interface - INFO - menu_calc - Произведение: 2 * 5 = 10
+12-02-2023 17:05:46 - user_interface - INFO - menu_divisions - Start menu divisions.
+12-02-2023 17:05:52 - user_interface - WARNING - menu_divisions - Main menu, wrong item selected.
+12-02-2023 17:05:56 - user_interface - INFO - menu_divisions - Stop divisions menu
+12-02-2023 17:05:57 - user_interface - INFO - menu_calc - Прекращение работы
+12-02-2023 17:05:57 - user_interface - INFO - menu - Rational nambers
+12-02-2023 17:06:00 - user_interface - INFO - menu - Stop program.
